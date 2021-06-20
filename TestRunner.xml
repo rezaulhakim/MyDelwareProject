@@ -1,0 +1,10 @@
+<suite name = "MyDelwareProject">
+    <test name = "regression">
+        <classes>
+<!--            <class name ="Tests.PersonalBankingPageTests">-->
+                <class name="Tests.MortgageTestingPage">
+                </class>
+<!--            </class>-->
+        </classes>
+    </test>
+</suite>
